@@ -1,0 +1,7 @@
+{
+  "public": {
+    "staleSessionInactivityTimeout": 1800000,
+    "staleSessionHeartbeatInterval": 300000,
+  },
+  "staleSessionPurgeInterval": 60000
+}
